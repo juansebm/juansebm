@@ -2,7 +2,7 @@
 
 ----
 
-23 y.o. Bachelor's degree in business and administration from "Universidad Técnica Federico Santa Maria" ([UTFSM](https://www.usm.cl/)). Self-taught Data Science student. Working on my postgraduate degree in data science at the "Universidad de Chile" ([FCFM](https://mds.uchile.cl))
+24 y.o. Bachelor's degree in business and administration at USM ([USM](https://www.usm.cl/)). Working on my M.Sc. degree ([MDS](https://mds.uchile.cl))
 
 *Stuff I've used at least once:*
 
