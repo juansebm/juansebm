@@ -4,6 +4,8 @@
 
 24 y.o. Bachelor's degree in business and administration at USM ([USM](https://www.usm.cl/)). Working on my M.Sc. degree ([MDS](https://mds.uchile.cl))
 
+I'm actually working on lots of stuff but it's all secret!
+
 *Stuff I've used at least once:*
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
