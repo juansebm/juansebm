@@ -6,7 +6,7 @@
 
 I'm actually working on lots of stuff but it's all secret!
 
-*Stuff I've used at least once:*
+*Stuff I've used at least a couple times:*
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -33,9 +33,6 @@ I'm actually working on lots of stuff but it's all secret!
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
-- 🤔 I could use some help with data science, machine learning, web applications, and geospatial data.
-
-### Find me at my LinkedIn
+### My LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/juansma-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juansma/)
